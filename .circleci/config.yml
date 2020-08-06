@@ -1,4 +1,4 @@
- aliases:
+aliases:
   - &filter-only-master
     branches:
       only:
